@@ -43,7 +43,11 @@ git add .
 git commit
 git status
 git log --pretty=short
+git log -p README.md // 只查看README.md文件的日志，并显示前后的差别
+git diff // 查看工作树、暂存区之间的差别
+git diff HEAD // 查看工作区与上次提交之间的差别 
 ```
+
 
 
 
