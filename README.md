@@ -39,8 +39,12 @@ $ cat ~/.ssh/id_rsa.pub
 ```
 
 ```
+git add .
+git commit
 git status
+git log --pretty=short
 ```
+
 
 
 
