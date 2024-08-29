@@ -1,6 +1,6 @@
 {
   "name": "learn_git_github",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "learn git and commitizen",
   "main": "index.js",
   "scripts": {
