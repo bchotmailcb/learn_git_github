@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "husky": "^9.1.5"
+  },
+  "dependencies": {
+    "conventional-changelog-cli": "^5.0.0"
   }
 }
